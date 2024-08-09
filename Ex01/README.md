@@ -1,1 +1,2 @@
-Exercício 1: Integração Eclipse e GitHub, criar um programa em Java usando o Ambiente Eclipse para desenvolvimento de sistemas Web.
+# Exercício 1: Integração Eclipse e GitHub
+- Criação de um programa em Java utilizando o ambiente Eclipse para o desenvolvimento de sistemas Web.
