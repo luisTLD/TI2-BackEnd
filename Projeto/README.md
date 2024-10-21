@@ -39,6 +39,10 @@ Este é um projeto desenvolvido para o Trabalho Interdisciplinar 2 (TI2), que vi
 4. Verifique as dependências e execute o servidor Spark.
 5. Abra o portal no navegador e realize o login para acessar as funcionalidades.
 
+## Nota Importante
+
+Este projeto marca meu primeiro contato com desenvolvimento de back-end, e embora todas as funcionalidades estejam implementadas e funcionando conforme esperado, reconheço que há espaço para otimização e melhorias. A experiência me proporcionou um entendimento prático das tecnologias envolvidas, e a cada dia identifico maneiras de tornar o código mais eficiente e funcional. O foco inicial foi garantir que o sistema operasse corretamente, e esse objetivo foi atingido com sucesso. No entanto, com o conhecimento adquirido, sei que futuras versões podem trazer aprimoramentos significativos em termos de desempenho e estrutura do código.
+
 ## Observações
 
 Este projeto foi desenvolvido com o foco em aprendizado e integração das tecnologias estudadas em sala de aula, portanto, algumas funcionalidades utilizam dados fictícios e a geração de imagens via IA é apenas para fins de teste e treinamento.
